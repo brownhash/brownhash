@@ -22,7 +22,7 @@ These help me to understand the latest developments & standards going on.
 - Infrastructure as Code in general
 - Scripting with Go & Python
 
-Ps: I ❤️ dogs 🐕 . Currently in love with a Pitbull.
+Ps: I ❤️ dogs. Currently in love with a Pitbull.
 
 <!--
 **sharma1612harshit/sharma1612harshit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
