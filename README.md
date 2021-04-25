@@ -4,6 +4,13 @@ My name is Harshit. I live in Mumbai 🇮🇳 and my timezone is UTC+05:30.
 
 I'm currently working on - **MLOps 🤖**
 
+### Open to discuss about
+
+- High scale application architectures
+- Managing your infrastructure with style
+- Infrastructure as Code in general
+- Scripting with Go & Python
+
 ### The open source projects that I'm currently focusing on are
 
 - [Terraform](https://github.com/hashicorp/terraform)
@@ -14,13 +21,6 @@ I'm currently working on - **MLOps 🤖**
 
 All the above projects display my interest in Golang & Python and the kind of work I do. 
 These help me to understand the latest developments & standards going on. 
-
-### Open to discuss about
-
-- High scale application architectures
-- Managing your infrastructure with style
-- Infrastructure as Code in general
-- Scripting with Go & Python
 
 ### Reach me at
 
