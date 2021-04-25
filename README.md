@@ -25,8 +25,8 @@ These help me to understand the latest developments & standards going on.
 ### Reach me at
 
 - [📧 Email](mailto:sharma1612harshit@gmail.com)
-- [👤 Linkedin](linkedin.com/in/sharma1612harshit)
-- [🐦 Twitter]()
+- [👤 Linkedin](https://www.linkedin.com/in/sharma1612harshit/)
+- [🐦 Twitter](https://twitter.com/harrydbst)
 - [📝 Blog](https://sharma1612harshit.medium.com/)
 
 Ps: I ❤️ dogs. Currently in love with a Pitbull.
