@@ -22,6 +22,13 @@ These help me to understand the latest developments & standards going on.
 - Infrastructure as Code in general
 - Scripting with Go & Python
 
+### Reach me at
+
+- [📧 Email](mailto:sharma1612harshit@gmail.com)
+- [👤 Linkedin](linkedin.com/in/sharma1612harshit)
+- [🐦 Twitter]()
+- [📝 Blog](https://sharma1612harshit.medium.com/)
+
 Ps: I ❤️ dogs. Currently in love with a Pitbull.
 
 <!--
