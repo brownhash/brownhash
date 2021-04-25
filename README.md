@@ -1,4 +1,4 @@
-# Hi there 👋
+# Namaste 🙏
 
 My name is Harshit. I live in Mumbai 🇮🇳 and my timezone is UTC+05:30.
 
