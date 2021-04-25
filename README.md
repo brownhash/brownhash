@@ -2,7 +2,7 @@
 
 My name is Harshit. I live in Mumbai 🇮🇳 and my timezone is UTC+05:30.
 
-## The open source projects that I'm currently focusing on are
+### The open source projects that I'm currently focusing on are
 
 - [Terraform](https://github.com/hashicorp/terraform)
 - [Cli](https://github.com/mitchellh/cli)
