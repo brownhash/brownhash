@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Harshit. I live in Mumbai 🇮🇳 and my timezone is UTC+05:30.
+
+
