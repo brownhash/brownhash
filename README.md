@@ -9,7 +9,7 @@ I'm currently working on - **MLOps 🤖**
 - High scale application architectures
 - Managing your infrastructure with style
 - Infrastructure as Code in general
-- Scripting with Go & Python
+- Codes in Go & Python
 
 ### The open source projects that I'm currently focusing on are
 
