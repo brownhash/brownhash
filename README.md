@@ -24,9 +24,9 @@ These help me to understand the latest developments & standards going on.
 
 ### Reach me at
 
-- [📧 Email](mailto:sharma1612harshit@gmail.com)
-- [👤 Linkedin](https://www.linkedin.com/in/sharma1612harshit/)
+- [📧 Email](mailto:brown.hash@outlook.com)
+- [👤 Linkedin](https://www.linkedin.com/in/brownhash/)
 - [🐦 Twitter](https://twitter.com/harrydbst)
-- [📝 Blog](https://sharma1612harshit.medium.com/)
+- [📝 Blog](https://brownhash.medium.com/)
 
 Ps: I ❤️ dogs. Currently in love with a Pitbull.
