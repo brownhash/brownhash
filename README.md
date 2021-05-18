@@ -2,7 +2,7 @@
 
 My name is Harshit. I live in Mumbai 🇮🇳 and my timezone is UTC+05:30.
 
-I'm currently working on - **Debt items 🤖**
+I'm currently working on - **Config management 🤖**
 
 ### Open to discuss about
 
