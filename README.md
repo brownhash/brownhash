@@ -1,6 +1,6 @@
 # Namaste 🙏
 
-This is Harshit. I work at @dream11 as a Software Development Engineer.
+This is Harshit. I work at [Dream11](https://github.com/dream11) as a Software Development Engineer.
 
 I'm currently working on - **Developer experience & ML Platform engineering**
 
