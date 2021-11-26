@@ -28,5 +28,6 @@ These help me to understand the latest developments & standards going on.
 - [👤 Linkedin](https://www.linkedin.com/in/brownhash/)
 - [🐦 Twitter](https://twitter.com/harrydbst)
 - [📝 Blog](https://brownhash.medium.com/)
+- [💬 Discussions](https://github.com/brownhash/brownhash/discussions/1)
 
 Ps: I ❤️ 🐶. Currently, in ❤️ with a Pitbull.
