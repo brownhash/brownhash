@@ -29,4 +29,4 @@ These help me to understand the latest developments & standards going on.
 - [🐦 Twitter](https://twitter.com/harrydbst)
 - [📝 Blog](https://brownhash.medium.com/)
 
-Ps: I :heart: :dog:. Currently, in :heart: with a Pitbull.
+Ps: I ❤️ 🐶. Currently, in ❤️ with a Pitbull.
