@@ -1,8 +1,8 @@
 # Namaste 🙏
 
-This is Harshit. I work at [Dream11](https://github.com/dream11) as a Software Development Engineer.
+This is Harshit. I work at [FinBox](https://finbox.in/) as a Sr. Software Development Engineer.
 
-I'm currently working on - **Developer experience & ML Platform engineering**
+I'm currently working on - **Product Backend and Infrastructure**
 
 ### Open to discuss
 
