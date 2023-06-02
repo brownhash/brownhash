@@ -8,16 +8,17 @@ I'm currently working on - **Product Backend and Infrastructure**
 
 - High scale application architectures
 - Backend applications in Go, Python or Java
+- MLOps
 - Serverless applications
 - Event driven architectures
 - Managing your infrastructure with style
 - Coding in general
 
-### The open source projects that I'm currently focusing on are
+<!-- ### The open source projects that I'm currently focusing on are
 
 - [Vert.X](https://github.com/eclipse-vertx/vert.x)
 - [Cli](https://github.com/mitchellh/cli)
-- [Kubevela](https://github.com/oam-dev/kubevela)
+- [Kubevela](https://github.com/oam-dev/kubevela) -->
 
 All the above projects display my interest in various development languages and the kind of work I do. 
 These help me to understand the latest developments & standards going on. 
