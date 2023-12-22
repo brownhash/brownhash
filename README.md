@@ -7,7 +7,7 @@ I'm currently working on - **Product Backend and Infrastructure**
 ### Open to discuss
 
 - High scale application architectures
-- Backend applications in Go, Python or Java
+- Applications in Go, Python, NodeJs, Java, React, ...
 - MLOps
 - Serverless applications
 - Event driven architectures
