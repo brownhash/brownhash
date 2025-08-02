@@ -1,27 +1,25 @@
 # Namaste 🙏
 
-This is Harshit. I work at [FinBox](https://finbox.in/) as a Sr. Software Development Engineer.
-
-I'm currently working on - **Product Backend and Infrastructure**
+This is Harshit, and I am a Software Engineer.
 
 ### Open to discuss
 
-- High scale application architectures
-- Applications in Go, Python, NodeJs, Java, React, ...
-- MLOps
-- Serverless applications
-- Event driven architectures
-- Managing your infrastructure with style
-- Coding in general
+- AI & its applications
+- Designing systems for scale
+- Enabling Machine Learning in systems
+- Innovations in Open-Source
+- Coding in general 😎
 
-<!-- ### The open source projects that I'm currently focusing on are
+### Currently working on
 
-- [Vert.X](https://github.com/eclipse-vertx/vert.x)
-- [Cli](https://github.com/mitchellh/cli)
-- [Kubevela](https://github.com/oam-dev/kubevela) -->
+- Agentic AI in real-world systems
+- Modernisation of systems using Kubernetes
+- Enabling cost-optimised infrastructure
+- Scaling algorithms
 
-All the above projects display my interest in various development languages and the kind of work I do. 
-These help me to understand the latest developments & standards going on. 
+### Exploring
+
+- Product Design & User Experience
 
 ### Reach me at
 
@@ -31,4 +29,9 @@ These help me to understand the latest developments & standards going on.
 - [📝 Blog](https://brownhash.medium.com/)
 - [💬 Discussions](https://github.com/brownhash/brownhash/discussions/1)
 
-Ps: I ❤️ 🐶. Currently, in ❤️ with a Pitbull.
+### When I'm off work, I
+
+- spend time with my 🐶
+- draw random stuff 🎨
+- explore beats for my playlist 🎵
+- ask ChatGPT to summarise books I want to read 📚
