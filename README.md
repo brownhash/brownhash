@@ -2,6 +2,13 @@
 
 This is Harshit, and I am a Software Engineer.
 
+### Currently working on
+
+- Agentic AI in real-world systems
+- Modernisation of systems using Kubernetes
+- Enabling cost-optimised infrastructure
+- Scaling algorithms
+
 ### Open to discuss
 
 - AI & its applications
@@ -9,13 +16,6 @@ This is Harshit, and I am a Software Engineer.
 - Enabling Machine Learning in systems
 - Innovations in Open-Source
 - Coding in general 😎
-
-### Currently working on
-
-- Agentic AI in real-world systems
-- Modernisation of systems using Kubernetes
-- Enabling cost-optimised infrastructure
-- Scaling algorithms
 
 ### Exploring
 
@@ -34,4 +34,6 @@ This is Harshit, and I am a Software Engineer.
 - spend time with my 🐶
 - draw random stuff 🎨
 - explore beats for my playlist 🎵
-- ask ChatGPT to summarise books I want to read 📚
+- ask ChatGPT to summarise the books I want to read 📚
+- explore the depths of Physics on YouTube 🔍
+- browse through blogs 🛜
